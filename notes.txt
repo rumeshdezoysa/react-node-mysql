@@ -2,12 +2,6 @@
 React JS Node Express Employee Management System | Mysql bcrypt jsonwebtoken
 *******************************************************************************************************************************************************
 mysql with wamp64
-support links
-
-https://tutorial101.blogspot.com/2023/09/react-js-node-express-employee.html
-
-https://www.youtube.com/watch?v=MC9jZvyr5Lc
-
 
 in server folder********************************************************************************
 
