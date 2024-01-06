@@ -1,0 +1,132 @@
+
+React JS Node Express Employee Management System | Mysql bcrypt jsonwebtoken
+*******************************************************************************************************************************************************
+mysql with wamp64
+support links
+
+https://tutorial101.blogspot.com/2023/09/react-js-node-express-employee.html
+
+https://www.youtube.com/watch?v=MC9jZvyr5Lc
+
+
+in server folder********************************************************************************
+
+https://expressjs.com/
+npm install express --save
+
+
+mysql
+https://github.com/mysqljs/mysql 
+npm install mysql
+
+cors
+CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+npm i cors
+
+bcrypt
+A library to help you hash passwords.
+https://www.npmjs.com/package/bcrypt
+npm i bcrypt
+
+
+jsonwebtoken
+An implementation of JSON Web Tokens.
+https://github.com/auth0/node-jsonwebtoken
+npm install jsonwebtoken 
+
+
+run server  to below command
+
+node index.js
+
+
+after modifing index.js file we need to restart node index.js  time by time.  after added new api method...   ********************************
+
+http://localhost:3001/
+
+working well
+*******************************************************************************************************************
+React JS
+https://create-react-app.dev/
+
+Create Project 
+
+client folder********************************************************************front end   view***************************************
+
+npx create-react-app .
+
+
+Install axios
+https://github.com/axios/axios
+
+Installing the Axios Client
+npm install axios
+
+Install React Router Dom
+https://www.npmjs.com/package/react-router-dom
+C:\react-js\client> npm i react-router-dom --save
+
+
+to index.html
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+
+
+
+to start project
+
+npm start 
+
+http://localhost:3000/
+
+
+working well
+
+
+06/01/2024
+=================
+
+i added today month information  to application
+
+html sample code
+https://bootsnipp.com/search?q=admin+profile+page&page=2
+
+online img link
+<img src="https://bootdey.com/img/Content/avatar/avatar7.png"
+
+react command and official link
+https://create-react-app.dev/
+
+
+created mysql table months, and
+create react-app interface and api also.
+
+works well
+
+
+
+now project to github ***********************
+
+
+
+
+
+How to deploy a react application to production - step by step process **********************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
